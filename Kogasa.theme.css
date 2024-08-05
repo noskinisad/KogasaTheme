@@ -22,7 +22,7 @@
 ░▒█░░▒█░▒█▄▄▄█░▒█▄▄█░▄█▄░▒█░░░░▄█▄░▒█▄▄▄░▒█▄▄█░░░▒█▄▄█░░░▒█░░░░░▒█░▒█░▄█▄░▒▀▄▀▄▀░▄█▄░░░▒█▄▄▀░▒█▄▄▄█░▒█░▒█░▒█░░░
  */
 :root {
-  --kogasa-bg: url(https://noskinisad.github.io/KogasaTheme.github.io/838711.png);
+  --ocean-bg: url(https://noskinisad.github.io/KogasaTheme.github.io/838711.png);
   --ocean-home-icon: url(https://devevil.com/betterdiscord/ocean-home-icon.png);
   --ocean-color1: #00d5ce;
   --ocean-color2: #0a173a;
@@ -37,7 +37,7 @@
 }
 
 .app_a01fb1 {
-  background-image: var(--kogasa-bg);
+  background-image: var(--ocean-bg);
   background-size: cover;
 }
 
