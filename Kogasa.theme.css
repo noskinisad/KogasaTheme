@@ -24,8 +24,10 @@
 :root {
   --ocean-bg: url(https://noskinisad.github.io/KogasaTheme.github.io/838713.jpg);
   --ocean-home-icon: url(https://noskinisad.github.io/KogasaTheme.github.io/Boo.gif);
+	/*
   --ocean-color1: #d270d7;
-  --ocean-color2: #eeeeee;
+ */
+  --ocean-color2: #04fff7;
   --ocean-color3: #1487b1;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
